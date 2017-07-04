@@ -16,7 +16,6 @@ namespace 线程同步
             }
 
             //TestJoin.test_join();
-
             Console.Read();
         }
 
