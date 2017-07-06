@@ -4,7 +4,7 @@ using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace EasyDownloader
+namespace 多线程下载器_控制台
 {
     public static class Utility
     {
